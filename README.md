@@ -1,4 +1,4 @@
-# Recursive funcrtions
+# Recursive functions
 
 ## recursive factorial
 
