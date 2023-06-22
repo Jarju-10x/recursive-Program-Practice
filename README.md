@@ -1,5 +1,5 @@
 # Recursive functions
-# Dynamic programming basic 
+# Dynamic programming basic practice
 ## recursive factorial
 
  -to build a factorial function using recursion
