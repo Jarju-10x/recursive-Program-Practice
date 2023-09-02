@@ -6,4 +6,4 @@
 
 ## recursive fibonacci
 
-- to build a fibonacci function using recursion and Memoisation
+- [ ] to build a fibonacci function using recursion and Memoisation
